@@ -628,6 +628,24 @@ If @@Error<>0 THEN
 	END
 ```
 
+## Optimización de consultas
 
+1. Evitar el select * --> Se debe recuperar únicamente las columnas necesarias.
+   
+2. Usar indices --> Usa índices cuando tus consultas sean frecuentes y predecibles.
+		--> Evita indexar todo indiscriminadamente, porque cada INSERT, UPDATE, DELETE también afecta los índices.	  
+		--> Cada vez que haces un INSERT, UPDATE o DELETE, Oracle actualiza automáticamente los índices relacionados. (por eso las operaciones de escritura sean más lentas, Por eso, no se deben crear índices 		    innecesarios.)
+   		--> Indexa solo columnas que realmente mejoran consultas (WHERE, JOIN, ORDER BY).
+                    Si tu tabla es muy de lectura (consultas), más índices ayudan.
+ 		    Si es muy de escritura (transacciones frecuentes), menos es más.
+   
+3. Evitar WHERE CustomerPostcode LIKE ‘SE1% --> Los caracteres comodín pueden ralentizar los resultados de la consulta porque, la base de datos tiene que escanear toda la tabla (lo que se conoce como 						                escaneo de tabla) para encontrar resultados.
 
+   
+4. Evite la recuperación de datos redundantes o innecesarias --> Si bien la reducción de las consultas SELECT se centra en las columnas, también es importante limitar la cantidad de filas que se devuelven en una 									 consulta. Puede hacer esto utilizando LIMIT y restringiendo la devolución de datos a, por ejemplo, 100 o 200. Esta función evita que la consulta devuelva 								 miles de filas de datos cuando solo necesita utilizar unas pocas.
 
+5. Utilice consultas EXIST() en lugar de COUNT() --> Al buscar un elemento específico en una tabla, es más eficiente utilizar una palabra clave EXIST() en lugar de una COUNT(). Esto se debe a que una consulta COUNT 							     cuenta cada instancia del elemento de búsqueda específico, lo que puede ser muy ineficiente, especialmente si la base de datos es grande.
+                                                     Las consultas EXIST solo cuentan la primera aparición del elemento de búsqueda particular, lo que reduce los tiempos de búsqueda.
+   
+6. Evitar subqueries en clausulas WHERE o HAVING --> Pueden ralentizar el rendimiento de la consulta, ya que pueden devolver un gran número de filas, lo que dificulta su ejecución.
+    						     Las cláusulas JOIN suelen ser una mejor opción.   				
