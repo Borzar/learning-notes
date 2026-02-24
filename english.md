@@ -348,6 +348,16 @@ Planes ya decididos
 - We are going to watch a movie. → Vamos a ver una película.
 - They are going to travel. → Ellos van a viajar.
 
+
+## 2️⃣ TO (how to use)
+En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siempre. La clave está en qué verbo, adjetivo o expresión estás usando.
+
+### Ejemplos
+- Verbo + infinitivo con “to”	→ I want to eat.
+- Adjetivo + infinitivo con “to” →	It’s easy to understand.
+- Propósito	→ I called you to ask a question.
+- Verbos modales / causativos sin “to” → I can run fast - She must study.
+
 ---
 
 <img width="2358" height="1148" alt="image" src="https://github.com/user-attachments/assets/5a4477c7-fac7-4cfa-a6e4-15730153a781" />
