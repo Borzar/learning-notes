@@ -2,7 +2,7 @@
 
 ## 🔹 Diferencia general
 
-- El **presente simple** se usa para **hábitos, rutinas, hechos universales y horarios**.  
+- El **presente simple** se usa para **hábitos, rutinas, hechos universales y horarios, give advice and make a suggestions**.  
   Ej: *I work every day.*
 
 - El **presente continuo** se usa para **acciones que ocurren ahora, planes futuros y situaciones temporales**.  
