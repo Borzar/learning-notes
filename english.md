@@ -360,6 +360,16 @@ En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siemp
 
 ---
 
+## Preposición	
+
+| Preposición | Uso principal             | Ejemplos                 |
+|-------------|---------------------------|--------------------------|
+| on          | sobre / días              | on the table / on Monday |
+| in          | dentro / meses / ciudades | in the room / in April   |
+| at          | punto exacto / hora       | at home / at 5 PM       |
+| for         | duración / para           | for 2 hours / for you   |
+| to          | dirección / hacia         | go to school            |
+
 <img width="2358" height="1148" alt="image" src="https://github.com/user-attachments/assets/5a4477c7-fac7-4cfa-a6e4-15730153a781" />
 <img width="1758" height="1458" alt="image" src="https://github.com/user-attachments/assets/62ab842e-fe6e-4639-bc64-acfe4fb2a239" />
 <img width="2074" height="1116" alt="image" src="https://github.com/user-attachments/assets/0a3602a8-c922-4549-b032-38aa3158e8ae" />
