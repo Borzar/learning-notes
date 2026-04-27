@@ -366,7 +366,7 @@ En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siemp
 |-------------|---------------------------|--------------------------|
 | on          | sobre / días              | on the table / on Monday |
 | in          | dentro / meses / ciudades | in the room / in April   |
-| at          | punto exacto / hora       | at home / at 5 PM       |
+| at          | punto exacto / hora / night      | at home / at 5 PM    / at night   |
 | for         | duración / para           | for 2 hours / for you   |
 | to          | dirección / hacia         | go to school            |
 
