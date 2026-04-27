@@ -362,13 +362,15 @@ En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siemp
 
 ## Preposición	
 
-| Preposición | Uso principal             | Ejemplos                 |
-|-------------|---------------------------|--------------------------|
-| on          | sobre / días              | on the table / on Monday |
-| in          | dentro / meses / ciudades/ periodos | in the room / in April   |
-| at          | punto exacto / hora / night      | at home / at 5 PM    / at night   |
-| for         | duración / para / esperar por         | for 2 hours / for you   |
-| to          | dirección / hacia         | go to school            |
+| Preposición | Uso principal                                  | Ejemplos                                           |
+|-------------|------------------------------------------------|----------------------------------------------------|
+| at          | hora / punto específico                        | at 8 PM, at home, at the airport                   |
+| in          | dentro / ciudad / país / meses / años          | in the room, in Santiago, in July, in 2026         |
+| on          | superficie / días / fechas                     | on the table, on Monday, on April 27               |
+| for         | duración / para                                | for two hours, for you                             |
+| to          | dirección / destino / infinitivo               | go to work, travel to Chile, want to learn         |
+| by          | medio / cerca de / límite / autor              | by bus, by the door, by Friday, by Shakespeare     |
+
 
 <img width="2358" height="1148" alt="image" src="https://github.com/user-attachments/assets/5a4477c7-fac7-4cfa-a6e4-15730153a781" />
 <img width="1758" height="1458" alt="image" src="https://github.com/user-attachments/assets/62ab842e-fe6e-4639-bc64-acfe4fb2a239" />
