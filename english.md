@@ -366,7 +366,7 @@ En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siemp
 |-------------|------------------------------------------------|----------------------------------------------------|
 | at          | hora / punto específico                        | at 8 PM, at home, at the airport                   |
 | in          | dentro / ciudad / país / meses / años          | in the room, in Santiago, in July, in 2026         |
-| on          | superficie / días / fechas                     | on the table, on Monday, on April 27               |
+| on          | superficie / días / fechas / eventos específicos                    | on the table, on Monday, on April 27. on Christmas Eve               |
 | for         | duración / para                                | for two hours, for you                             |
 | to          | dirección / destino / infinitivo               | go to work, travel to Chile, want to learn         |
 | by          | medio / cerca de / límite / autor              | by bus, by the door, by Friday, by Shakespeare     |
