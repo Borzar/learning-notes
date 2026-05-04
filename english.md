@@ -371,7 +371,7 @@ En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siemp
 | to          | dirección / destino / infinitivo               | go to work, travel to Chile, want to learn         |
 | by          | medio / cerca de / límite / autor              | by bus, by the door, by Friday, by Shakespeare     |
 | from        | origen / inicio / rango                        | from Chile, from 8 AM to 5 PM, from Santiago       |
-
+| about       | sobre / acerca de / aproximadamente            | talk about music, worry about that, about 20 people       |
 
 <img width="2358" height="1148" alt="image" src="https://github.com/user-attachments/assets/5a4477c7-fac7-4cfa-a6e4-15730153a781" />
 <img width="1758" height="1458" alt="image" src="https://github.com/user-attachments/assets/62ab842e-fe6e-4639-bc64-acfe4fb2a239" />
