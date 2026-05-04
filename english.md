@@ -373,6 +373,32 @@ En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siemp
 | from        | origen / inicio / rango / de (Viene de alguien? → from)                  | from Chile, from 8 AM to 5 PM, from Santiago, I got a message from my brother       |
 | about       | sobre / acerca de / aproximadamente            | talk about music, worry about that, about 20 people       |
 
+---
+
+## English Grammar Summary: Countable & Uncountable Nouns + Quantifiers
+
+| Categoría | Estructura | Uso | Descripción | Ejemplo |
+|-----------|------------|-----|-------------|---------|
+| **Countable** | **many** | Cantidad | Se usa para hablar de una gran cantidad de cosas que se pueden contar. | I have **many** books. |
+| **Countable** | **a few** | Cantidad pequeña | Significa "algunos" o "unos pocos". | I have **a few** friends. |
+| **Countable** | **too many** | Exceso | Significa "demasiados". Indica exceso. | There are **too many** cars. |
+| **Uncountable** | **much** | Cantidad | Se usa para hablar de cantidad de cosas que no se pueden contar individualmente. | I don’t have **much** time. |
+| **Uncountable** | **a little** | Cantidad pequeña | Significa "un poco de". | There is **a little** milk. |
+| **Uncountable** | **too much** | Exceso | Significa "demasiado". Indica exceso. | He drinks **too much** coffee. |
+| **Countable / Uncountable** | **some** | Cantidad | Se usa principalmente en oraciones afirmativas. | She bought **some** apples. |
+| **Countable / Uncountable** | **any** | Cantidad | Se usa normalmente en preguntas y oraciones negativas. | Do you have **any** money? |
+| **Countable / Uncountable** | **a lot of** | Gran cantidad | Se usa para expresar mucha cantidad. Muy común en conversaciones. | We have **a lot of** work. |
+| **Countable / Uncountable** | **enough** | Suficiencia | Significa "suficiente". | Do you have **enough** time? |
+
+## Ejemplos de sustantivos
+
+| Tipo | Ejemplos |
+|------|----------|
+| **Countable** | books, apples, cars, friends, eggs |
+| **Uncountable** | water, milk, money, coffee, homework |
+
+---
+
 <img width="2358" height="1148" alt="image" src="https://github.com/user-attachments/assets/5a4477c7-fac7-4cfa-a6e4-15730153a781" />
 <img width="1758" height="1458" alt="image" src="https://github.com/user-attachments/assets/62ab842e-fe6e-4639-bc64-acfe4fb2a239" />
 <img width="2074" height="1116" alt="image" src="https://github.com/user-attachments/assets/0a3602a8-c922-4549-b032-38aa3158e8ae" />
