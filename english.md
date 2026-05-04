@@ -364,12 +364,12 @@ En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siemp
 
 | Preposición | Uso principal                                  | Ejemplos                                           |
 |-------------|------------------------------------------------|----------------------------------------------------|
-| at          | hora / punto específico                        | at 8 PM, at home, at the airport                   |
+| at          | hora / punto específico                        | at 8 PM, at home, at the airport, at night → expresion fija                 |
 | in          | dentro / ciudad / país / meses / años          | in the room, in Santiago, in July, in 2026         |
 | on          | superficie / días / fechas / eventos específicos                    | on the table, on Monday, on April 27. on Christmas Eve               |
 | for         | duración / para                                | for two hours, for you                             |
 | to          | dirección / destino / infinitivo               | go to work, travel to Chile, want to learn         |
-| by          | medio / cerca de / límite / autor              | by bus, by the door, by Friday, by Shakespeare     |
+| by          | medio / cerca de / límite / autor / Por (hecho por alguien)             | by bus, by the door, by Friday, by Shakespeare,The photo was taken by my friend.     |
 | from        | origen / inicio / rango / de (Viene de alguien? → from)                  | from Chile, from 8 AM to 5 PM, from Santiago, I got a message from my brother       |
 | about       | sobre / acerca de / aproximadamente            | talk about music, worry about that, about 20 people       |
 
