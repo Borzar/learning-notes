@@ -370,7 +370,7 @@ En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siemp
 | for         | duración / para                                | for two hours, for you                             |
 | to          | dirección / destino / infinitivo               | go to work, travel to Chile, want to learn         |
 | by          | medio / cerca de / límite / autor              | by bus, by the door, by Friday, by Shakespeare     |
-| from        | origen / inicio / rango                        | from Chile, from 8 AM to 5 PM, from Santiago       |
+| from        | origen / inicio / rango / de (Viene de alguien? → from)                  | from Chile, from 8 AM to 5 PM, from Santiago, I got a message from my brother       |
 | about       | sobre / acerca de / aproximadamente            | talk about music, worry about that, about 20 people       |
 
 <img width="2358" height="1148" alt="image" src="https://github.com/user-attachments/assets/5a4477c7-fac7-4cfa-a6e4-15730153a781" />
