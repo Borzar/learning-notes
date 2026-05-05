@@ -372,7 +372,12 @@ En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siemp
 | by          | medio / cerca de / límite / autor / Por (hecho por alguien)             | by bus, by the door, by Friday, by Shakespeare,The photo was taken by my friend.     |
 | from        | origen / inicio / rango / de (Viene de alguien? → from)                  | from Chile, from 8 AM to 5 PM, from Santiago, I got a message from my brother       |
 | about       | sobre / acerca de / aproximadamente            | talk about music, worry about that, about 20 people       |
+| of          | pertenencia / relación / parte de algo (signifca "de")    | a piece of cake, the door of the car, the capital of Chile |
 
+| Adverb of degree | Uso principal                                  | Ejemplos                                           |
+|-------------|------------------------------------------------|----------------------------------------------------|
+| so          | muy / tan (Solo intensifica una idea)        | It’s so hard (Es muy difícil)      |
+| too         | Demasiado (mas intenso que so)               | It’s too hard (Es demasiado difíci) |
 ---
 
 ## English Grammar Summary: Countable & Uncountable Nouns + Quantifiers
