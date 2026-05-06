@@ -404,6 +404,73 @@ En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siemp
 
 ---
 
+## English Grammar Summary – Pronouns & Possessives
+
+### 1. Object Pronouns (me, him, her, us, them)
+
+Se usan cuando la persona **recibe la acción del verbo** (no la realiza).
+
+| Subject | Object Pronoun | Significado | Ejemplo |
+|---------|----------------|-------------|---------|
+| I       | me             | a mí        | She sees me. (Ella me ve) |
+| you     | you            | a ti / ustedes | I call you. (Te llamo) |
+| he      | him            | a él        | I see him. (Lo veo) |
+| she     | her            | a ella      | I help her. (La ayudo) |
+| it      | it             | eso / ello  | I like it. (Me gusta eso) |
+| we      | us             | a nosotros  | He helps us. (Nos ayuda) |
+| they    | them           | a ellos     | I know them. (Los conozco) |
+
+
+### 2. Possessive Adjectives (my, your, his, her, our, their)
+
+Se usan para indicar **posesión y siempre van antes del sustantivo**.
+
+| Subject | Possessive Adjective | Ejemplo |
+|---------|----------------------|---------|
+| I       | my                   | my book |
+| you     | your                 | your phone |
+| he      | his                  | his car |
+| she     | her                  | her bag |
+| it      | its                  | its tail |
+| we      | our                  | our house |
+| they    | their                | their keys |
+
+### 3. Possessive Pronouns (mine, yours, his, hers, ours, theirs)
+
+Se usan para **reemplazar el sustantivo**. No lo acompañan.
+
+| Subject | Possessive Pronoun | Ejemplo |
+|---------|--------------------|---------|
+| I       | mine               | This book is mine |
+| you     | yours              | The phone is yours |
+| he      | his                | The car is his |
+| she     | hers               | The bag is hers |
+| we      | ours               | The house is ours |
+| they    | theirs             | The idea is theirs |
+
+### 4. Possessive ’s (Genitivo sajón)
+
+Se usa para mostrar **posesión directa entre personas o cosas**.
+
+| Estructura | Ejemplo | Traducción |
+|------------|---------|------------|
+| person + ’s + noun | John’s car | el auto de John |
+| Maria’s phone | Maria’s phone | el teléfono de María |
+| the boy’s dog | the boy’s dog | el perro del niño |
+
+📌 Si es plural terminado en s:
+- parents’ house → la casa de los padres
+
+
+### Resumen rápido
+
+- **Object pronouns** → reciben la acción (him, her, us)  
+- **Possessive adjectives** → acompañan sustantivo (my book)  
+- **Possessive pronouns** → reemplazan sustantivo (mine)  
+- **’s (genitivo)** → muestra posesión (John’s car)
+
+---
+
 <img width="2358" height="1148" alt="image" src="https://github.com/user-attachments/assets/5a4477c7-fac7-4cfa-a6e4-15730153a781" />
 <img width="1758" height="1458" alt="image" src="https://github.com/user-attachments/assets/62ab842e-fe6e-4639-bc64-acfe4fb2a239" />
 <img width="2074" height="1116" alt="image" src="https://github.com/user-attachments/assets/0a3602a8-c922-4549-b032-38aa3158e8ae" />
