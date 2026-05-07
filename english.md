@@ -399,8 +399,8 @@ En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siemp
 
 | Tipo | Ejemplos |
 |------|----------|
-| **Countable** | books, apples, cars, friends, eggs |
-| **Uncountable** | water, milk, money, coffee, homework |
+| **Countable** | books, apples, cars, friends, eggs, hours, minutes, seconds, weeks |
+| **Uncountable** | water, milk, money, coffee, homework, weather, time   |
 
 ---
 
