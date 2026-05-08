@@ -403,7 +403,33 @@ En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siemp
 | **Uncountable** | water, milk, money, coffee, homework, weather, time   |
 
 ---
+## Indefinite Pronouns and Adverbs
 
+| Grupo | Palabra | Significado | Se usa generalmente en | Ejemplo | Traducción |
+|--------|---------|-------------|-------------------------|---------|-------------|
+| **SOME** | **someone** | alguien | Afirmaciones | Someone is calling you. | Alguien te está llamando. |
+| **SOME** | **somebody** | alguien | Afirmaciones | Somebody left a message. | Alguien dejó un mensaje. |
+| **SOME** | **somewhere** | en algún lugar | Afirmaciones | My keys are somewhere in the house. | Mis llaves están en algún lugar de la casa. |
+| **ANY** | **anyone** | alguien / nadie* | Preguntas y negaciones | Is anyone here? | ¿Hay alguien aquí? |
+| **ANY** | **anybody** | alguien / nadie* | Preguntas y negaciones | I don't know anybody here. | No conozco a nadie aquí. |
+| **ANY** | **anywhere** | en algún lugar / en ningún lugar / cualquier lugar* | Preguntas y negaciones | Did you go anywhere yesterday? | ¿Fuiste a algún lugar ayer? |
+| **EVERY** | **everyone** | todos | Afirmaciones (generalizaciones) | Everyone enjoyed the party. | Todos disfrutaron la fiesta. |
+| **EVERY** | **everybody** | todos | Afirmaciones (generalizaciones) | Everybody is ready. | Todos están listos. |
+| **EVERY** | **everywhere** | en todas partes | Afirmaciones (generalizaciones) | I looked everywhere. | Busqué en todas partes. |
+| **NO** | **no one** | nadie | Afirmaciones con sentido negativo | No one answered the phone. | Nadie respondió el teléfono. |
+| **NO** | **nobody** | nadie | Afirmaciones con sentido negativo | Nobody knows the answer. | Nadie sabe la respuesta. |
+| **NO** | **nowhere** | en ningún lugar | Afirmaciones con sentido negativo | My wallet is nowhere. | Mi billetera no está en ningún lugar. |
+
+## Regla rápida
+
+| Grupo | Idea principal | Uso común |
+|--------|----------------|-----------|
+| **SOME** | Existe alguien o algún lugar | Afirmaciones |
+| **ANY** | Preguntar si existe / negar existencia | Preguntas y negaciones |
+| **EVERY** | Totalidad (todos / todas partes) | Generalizaciones |
+| **NO** | Ausencia total (nadie / ningún lugar) | Oraciones con sentido negativo |
+
+---
 ## English Grammar Summary – Pronouns & Possessives
 
 ### 1. Object Pronouns (me, him, her, us, them)
