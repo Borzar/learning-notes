@@ -515,11 +515,11 @@ Se usa para mostrar **posesión directa entre personas o cosas**.
 | Elemento | Contenido |
 |----------|-----------|
 | **Estructura** | Verb + verb-ing |
-| **Uso** | Gustos, hábitos, experiencias, actividades continuas |
+| **Uso** | Gustos, hábitos, experiencias, actividades continuas, sugerencia |
 | **Verbos comunes** | enjoy, avoid, keep, practice, finish, mind, suggest, consider, imagine, miss |
 | **Ejemplos** | I enjoy **reading**.<br>He avoids **driving** at night.<br>She keeps **learning** every day. |
 | **Idea clave** | "Disfruto / evito / sigo haciendo algo" |
-| **Tip** | Si la acción ya se está viviendo como experiencia o actividad → -ING. |
+| **Tip** | Si la acción ya se está viviendo como experiencia, actividad o sugerencia → -ING. |
 
 ## 3. Verb + Person + TO + Verb
 
