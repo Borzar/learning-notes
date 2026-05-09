@@ -360,7 +360,7 @@ En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siemp
 
 ---
 
-## Preposición	
+# Preposición	
 
 | Preposición | Uso principal                                  | Ejemplos                                           |
 |-------------|------------------------------------------------|----------------------------------------------------|
@@ -380,7 +380,7 @@ En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siemp
 | too         | Demasiado (mas intenso que so)               | It’s too hard (Es demasiado difíci) |
 ---
 
-## English Grammar Summary: Countable & Uncountable Nouns + Quantifiers
+# English Grammar Summary: Countable & Uncountable Nouns + Quantifiers
 
 | Categoría | Estructura | Uso | Descripción | Ejemplo |
 |-----------|------------|-----|-------------|---------|
@@ -403,7 +403,7 @@ En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siemp
 | **Uncountable** | water, milk, money, coffee, homework, weather, time   |
 
 ---
-## Indefinite Pronouns and Adverbs
+# Indefinite Pronouns and Adverbs
 
 | Grupo | Palabra | Significado | Se usa generalmente en | Ejemplo | Traducción |
 |--------|---------|-------------|-------------------------|---------|-------------|
@@ -430,9 +430,9 @@ En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siemp
 | **NO** | Ausencia total (nadie / ningún lugar) | Oraciones con sentido negativo |
 
 ---
-## English Grammar Summary – Pronouns & Possessives
+# English Grammar Summary – Pronouns & Possessives
 
-### 1. Object Pronouns (me, him, her, us, them)
+## 1. Object Pronouns (me, him, her, us, them)
 
 Se usan cuando la persona **recibe la acción del verbo** (no la realiza).
 
@@ -447,7 +447,7 @@ Se usan cuando la persona **recibe la acción del verbo** (no la realiza).
 | they    | them           | a ellos     | I know them. (Los conozco) |
 
 
-### 2. Possessive Adjectives (my, your, his, her, our, their)
+## 2. Possessive Adjectives (my, your, his, her, our, their)
 
 Se usan para indicar **posesión y siempre van antes del sustantivo**.
 
@@ -461,7 +461,7 @@ Se usan para indicar **posesión y siempre van antes del sustantivo**.
 | we      | our                  | our house |
 | they    | their                | their keys |
 
-### 3. Possessive Pronouns (mine, yours, his, hers, ours, theirs)
+## 3. Possessive Pronouns (mine, yours, his, hers, ours, theirs)
 
 Se usan para **reemplazar el sustantivo**. No lo acompañan.
 
@@ -474,7 +474,7 @@ Se usan para **reemplazar el sustantivo**. No lo acompañan.
 | we      | ours               | The house is ours |
 | they    | theirs             | The idea is theirs |
 
-### 4. Possessive ’s (Genitivo sajón)
+## 4. Possessive ’s (Genitivo sajón)
 
 Se usa para mostrar **posesión directa entre personas o cosas**.
 
@@ -488,7 +488,7 @@ Se usa para mostrar **posesión directa entre personas o cosas**.
 - parents’ house → la casa de los padres
 
 
-### Resumen rápido
+## Resumen rápido
 
 - **Object pronouns** → reciben la acción (him, her, us)  
 - **Possessive adjectives** → acompañan sustantivo (my book)  
@@ -497,7 +497,55 @@ Se usa para mostrar **posesión directa entre personas o cosas**.
 
 ---
 
-<img width="2358" height="1148" alt="image" src="https://github.com/user-attachments/assets/5a4477c7-fac7-4cfa-a6e4-15730153a781" />
-<img width="1758" height="1458" alt="image" src="https://github.com/user-attachments/assets/62ab842e-fe6e-4639-bc64-acfe4fb2a239" />
-<img width="2074" height="1116" alt="image" src="https://github.com/user-attachments/assets/0a3602a8-c922-4549-b032-38aa3158e8ae" />
+# Verb Patterns
+
+## 1. Verb + TO + Verb (Infinitive)
+
+| Elemento | Contenido |
+|----------|-----------|
+| **Estructura** | Verb + to + base verb |
+| **Uso** | Planes, decisiones, intenciones, objetivos, futuro |
+| **Verbos comunes** | want, decide, plan, hope, promise, need, expect, learn, choose, agree |
+| **Ejemplos** | I want **to learn** English.<br>She decided **to study** more.<br>We plan **to travel** next year. |
+| **Idea clave** | "Quiero / decido / planeo hacer algo" |
+| **Tip** | Si estoy pensando en una acción futura/intención → probablemente TO + verb. |
+
+## 2. Verb + Verb-ING (Gerund)
+
+| Elemento | Contenido |
+|----------|-----------|
+| **Estructura** | Verb + verb-ing |
+| **Uso** | Gustos, hábitos, experiencias, actividades continuas |
+| **Verbos comunes** | enjoy, avoid, keep, practice, finish, mind, suggest, consider, imagine, miss |
+| **Ejemplos** | I enjoy **reading**.<br>He avoids **driving** at night.<br>She keeps **learning** every day. |
+| **Idea clave** | "Disfruto / evito / sigo haciendo algo" |
+| **Tip** | Si la acción ya se está viviendo como experiencia o actividad → -ING. |
+
+## 3. Verb + Person + TO + Verb
+
+| Elemento | Contenido |
+|----------|-----------|
+| **Estructura** | Verb + person + to + base verb |
+| **Uso** | Cuando alguien le pide, dice, invita o persuade a otra persona |
+| **Verbos comunes** | tell, ask, want, invite, advise, remind, encourage, persuade, teach |
+| **Ejemplos** | She told me **to wait**.<br>My boss asked us **to stay**.<br>They invited me **to come**. |
+| **Idea clave** | "Alguien hace que otra persona haga algo" |
+
+## Verbos que cambian significado
+
+| Verbo | Patrón | Significado | Ejemplo |
+|-------|--------|-------------|---------|
+| **remember** | remember + verb-ing | Recordar una experiencia pasada | I remember **meeting** him. |
+| **remember** | remember + to + verb | Recordar una acción pendiente | Remember **to call** him. |
+| **stop** | stop + verb-ing | Dejar una actividad | He stopped **smoking**. |
+| **stop** | stop + to + verb | Detenerse para hacer algo | He stopped **to smoke**. |
+| **try** | try + verb-ing | Probar una solución | Try **drinking** more water. |
+| **try** | try + to + verb | Hacer el esfuerzo de lograr algo | I tried **to open** the door. |
+| **forget** | forget + verb-ing | Olvidar una experiencia pasada | I forgot **meeting** him. |
+| **forget** | forget + to + verb | Olvidar una acción o tarea | I forgot **to call** him. |
+
+
+---
+
+
 
