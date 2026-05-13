@@ -360,9 +360,9 @@ En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siemp
 
 ---
 
-# Preposición	
+# Prepositions	
 
-| Preposición | Uso principal                                  | Ejemplos                                           |
+| prepositions | Uso principal                                  | Ejemplos                                           |
 |-------------|------------------------------------------------|----------------------------------------------------|
 | at          | hora / punto específico                        | at 8 PM, at home, at the airport, at night → expresion fija                 |
 | in          | dentro / ciudad / país / meses / años          | in the room, in Santiago, in July, in 2026         |
@@ -428,6 +428,109 @@ En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siemp
 | **ANY** | Preguntar si existe / negar existencia | Preguntas y negaciones |
 | **EVERY** | Totalidad (todos / todas partes) | Generalizaciones |
 | **NO** | Ausencia total (nadie / ningún lugar) | Oraciones con sentido negativo |
+
+---
+# Adjectives and Adverbs
+
+| Adjective | Adverb | Traducción | Example |
+|-----------|--------|------------|---------|
+| quick | quickly | rápido / rápidamente | She finishes her work quickly. |
+| slow | slowly | lento / lentamente | He walks slowly. |
+| careful | carefully | cuidadoso / cuidadosamente | She drives carefully at night. |
+| happy | happily | feliz / felizmente | The kids played happily. |
+| quiet | quietly | silencioso / silenciosamente | Please speak quietly. |
+| loud | loudly | ruidoso / en voz alta | He spoke loudly in the meeting. |
+| bad | badly | malo / mal | I played badly yesterday. |
+| good | well | bueno / bien | She speaks English well. |
+| easy | easily | fácil / fácilmente | We solved the problem easily. |
+| efficient | efficiently | eficiente / eficientemente | My team works efficiently. |
+| polite | politely | educado / educadamente | He answered the client politely. |
+| clear | clearly | claro / claramente | She explained the issue clearly. |
+| angry | angrily | enojado / enojadamente | He answered angrily. |
+| nervous | nervously | nervioso / nerviosamente | She spoke nervously in the interview. |
+| serious | seriously | serio / seriamente | They discussed the problem seriously. |
+| fluent | fluently | fluido / fluidamente | He speaks English fluently. |
+| perfect | perfectly | perfecto / perfectamente | The code works perfectly. |
+| calm | calmly | tranquilo / tranquilamente | She handled the situation calmly. |
+| soft | softly | suave / suavemente | He spoke softly. |
+| brave | bravely | valiente / valientemente | The firefighter acted bravely. |
+
+
+## Table 1: Adjective vs Adverb
+
+- Adjective = describes a noun (person, place, thing)
+  
+- Adverb = describes a verb (action)
+
+| Adjective | Adverb | Example with Adjective | Example with Adverb | Traducción |
+|-----------|--------|-------------------------|----------------------|------------|
+| careful | carefully | He is careful. | He drives carefully. | cuidadoso / cuidadosamente |
+| quick | quickly | She is quick. | She works quickly. | rápido / rápidamente |
+| good | well | He is good at English. | He speaks English well. | bueno / bien |
+| quiet | quietly | She is quiet. | She speaks quietly. | silencioso / silenciosamente |
+| polite | politely | He is polite. | He answered politely. | educado / educadamente |
+| efficient | efficiently | My team is efficient. | My team works efficiently. | eficiente / eficientemente |
+| nervous | nervously | She is nervous. | She spoke nervously. | nervioso / nerviosamente |
+| clear | clearly | Her explanation is clear. | She explained clearly. | claro / claramente |
+
+## Table 2: What is the difference?
+
+| Sentence | What does it describe? | Type | Explanation |
+|----------|-------------------------|------|-------------|
+| He is careful. | The person | Adjective | "Careful" describes the person. |
+| He drives carefully. | The action | Adverb | "Carefully" describes how he drives. |
+| She is quick. | The person | Adjective | "Quick" describes the person. |
+| She works quickly. | The action | Adverb | "Quickly" describes how she works. |
+| He is good at English. | The person / ability | Adjective | "Good" describes his ability. |
+| He speaks English well. | The action | Adverb | "Well" describes how he speaks. |
+
+---
+# Verb Patterns
+
+## 1. Verb + TO + Verb (Infinitive)
+
+| Elemento | Contenido |
+|----------|-----------|
+| **Estructura** | Verb + to + base verb |
+| **Uso** | Planes, decisiones, intenciones, objetivos, futuro |
+| **Verbos comunes** | want, decide, plan, hope, promise, need, expect, learn, choose, agree |
+| **Ejemplos** | I want **to learn** English.<br>She decided **to study** more.<br>We plan **to travel** next year. |
+| **Idea clave** | "Quiero / decido / planeo hacer algo" |
+| **Tip** | Si estoy pensando en una acción futura/intención → probablemente TO + verb. |
+
+## 2. Verb + Verb-ING (Gerund)
+
+| Elemento | Contenido |
+|----------|-----------|
+| **Estructura** | Verb + verb-ing |
+| **Uso** | Gustos, hábitos, experiencias, actividades continuas, sugerencia |
+| **Verbos comunes** | enjoy, avoid, keep, practice, finish, mind, suggest, consider, imagine, miss |
+| **Ejemplos** | I enjoy **reading**.<br>He avoids **driving** at night.<br>She keeps **learning** every day. |
+| **Idea clave** | "Disfruto / evito / sigo haciendo algo" |
+| **Tip** | Si la acción ya se está viviendo como experiencia, actividad o sugerencia → -ING. |
+
+## 3. Verb + Person + TO + Verb
+
+| Elemento | Contenido |
+|----------|-----------|
+| **Estructura** | Verb + person + to + base verb |
+| **Uso** | Cuando alguien le pide, dice, invita o persuade a otra persona |
+| **Verbos comunes** | tell, ask, want, invite, advise, remind, encourage, persuade, teach |
+| **Ejemplos** | She told me **to wait**.<br>My boss asked us **to stay**.<br>They invited me **to come**. |
+| **Idea clave** | "Alguien hace que otra persona haga algo" |
+
+## Verbos que cambian significado
+
+| Verbo | Patrón | Significado | Ejemplo |
+|-------|--------|-------------|---------|
+| **remember** | remember + verb-ing | Recordar una experiencia pasada | I remember **meeting** him. |
+| **remember** | remember + to + verb | Recordar una acción pendiente | Remember **to call** him. |
+| **stop** | stop + verb-ing | Dejar una actividad | He stopped **smoking**. |
+| **stop** | stop + to + verb | Detenerse para hacer algo | He stopped **to smoke**. |
+| **try** | try + verb-ing | Probar una solución | Try **drinking** more water. |
+| **try** | try + to + verb | Hacer el esfuerzo de lograr algo | I tried **to open** the door. |
+| **forget** | forget + verb-ing | Olvidar una experiencia pasada | I forgot **meeting** him. |
+| **forget** | forget + to + verb | Olvidar una acción o tarea | I forgot **to call** him. |
 
 ---
 # English Grammar Summary – Pronouns & Possessives
@@ -497,52 +600,7 @@ Se usa para mostrar **posesión directa entre personas o cosas**.
 
 ---
 
-# Verb Patterns
 
-## 1. Verb + TO + Verb (Infinitive)
-
-| Elemento | Contenido |
-|----------|-----------|
-| **Estructura** | Verb + to + base verb |
-| **Uso** | Planes, decisiones, intenciones, objetivos, futuro |
-| **Verbos comunes** | want, decide, plan, hope, promise, need, expect, learn, choose, agree |
-| **Ejemplos** | I want **to learn** English.<br>She decided **to study** more.<br>We plan **to travel** next year. |
-| **Idea clave** | "Quiero / decido / planeo hacer algo" |
-| **Tip** | Si estoy pensando en una acción futura/intención → probablemente TO + verb. |
-
-## 2. Verb + Verb-ING (Gerund)
-
-| Elemento | Contenido |
-|----------|-----------|
-| **Estructura** | Verb + verb-ing |
-| **Uso** | Gustos, hábitos, experiencias, actividades continuas, sugerencia |
-| **Verbos comunes** | enjoy, avoid, keep, practice, finish, mind, suggest, consider, imagine, miss |
-| **Ejemplos** | I enjoy **reading**.<br>He avoids **driving** at night.<br>She keeps **learning** every day. |
-| **Idea clave** | "Disfruto / evito / sigo haciendo algo" |
-| **Tip** | Si la acción ya se está viviendo como experiencia, actividad o sugerencia → -ING. |
-
-## 3. Verb + Person + TO + Verb
-
-| Elemento | Contenido |
-|----------|-----------|
-| **Estructura** | Verb + person + to + base verb |
-| **Uso** | Cuando alguien le pide, dice, invita o persuade a otra persona |
-| **Verbos comunes** | tell, ask, want, invite, advise, remind, encourage, persuade, teach |
-| **Ejemplos** | She told me **to wait**.<br>My boss asked us **to stay**.<br>They invited me **to come**. |
-| **Idea clave** | "Alguien hace que otra persona haga algo" |
-
-## Verbos que cambian significado
-
-| Verbo | Patrón | Significado | Ejemplo |
-|-------|--------|-------------|---------|
-| **remember** | remember + verb-ing | Recordar una experiencia pasada | I remember **meeting** him. |
-| **remember** | remember + to + verb | Recordar una acción pendiente | Remember **to call** him. |
-| **stop** | stop + verb-ing | Dejar una actividad | He stopped **smoking**. |
-| **stop** | stop + to + verb | Detenerse para hacer algo | He stopped **to smoke**. |
-| **try** | try + verb-ing | Probar una solución | Try **drinking** more water. |
-| **try** | try + to + verb | Hacer el esfuerzo de lograr algo | I tried **to open** the door. |
-| **forget** | forget + verb-ing | Olvidar una experiencia pasada | I forgot **meeting** him. |
-| **forget** | forget + to + verb | Olvidar una acción o tarea | I forgot **to call** him. |
 
 
 ---
