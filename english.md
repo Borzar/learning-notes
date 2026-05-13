@@ -456,7 +456,7 @@ En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siemp
 | brave | bravely | valiente / valientemente | The firefighter acted bravely. |
 
 
-## Table 1: Adjective vs Adverb
+## Adjective vs Adverb
 
 - Adjective = describes a noun (person, place, thing)
   
@@ -473,7 +473,7 @@ En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siemp
 | nervous | nervously | She is nervous. | She spoke nervously. | nervioso / nerviosamente |
 | clear | clearly | Her explanation is clear. | She explained clearly. | claro / claramente |
 
-## Table 2: What is the difference?
+## What is the difference?
 
 | Sentence | What does it describe? | Type | Explanation |
 |----------|-------------------------|------|-------------|
