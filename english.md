@@ -485,6 +485,43 @@ En inglés, el “to” se usa con el infinitivo en ciertos casos, pero no siemp
 | He speaks English well. | The action | Adverb | "Well" describes how he speaks. |
 
 ---
+# Sequence Markers (Narrating sentences)
+
+| Category | English Expression | Spanish Meaning | Example |
+|----------|--------------------|-----------------|---------|
+| Start | First, | Primero | First, I woke up at 9 AM. |
+| Start | To begin with, | Para empezar | To begin with, I checked my phone. |
+| Start | At first, | Al principio | At first, I didn’t want to study. |
+| Continue | Then, | Luego / Entonces | Then, I had breakfast. |
+| Continue | Next, | Después / Luego | Next, I started studying English. |
+| Continue | After that, | Después de eso | After that, I cleaned my room. |
+| Continue | Later, | Más tarde | Later, I watched some videos. |
+| Add information | Also, | También | Also, I wrote in my diary. |
+| Add information | Besides that, | Además | Besides that, I practiced speaking. |
+| Add information | In addition, | Además | In addition, I reviewed grammar. |
+| Time of day | In the morning, | En la mañana | In the morning, I had coffee. |
+| Time of day | In the afternoon, | En la tarde | In the afternoon, I studied Computer Science. |
+| Time of day | In the evening, | En la tarde/noche | In the evening, I talked with my family. |
+| Time of day | At night, | Por la noche | At night, I watched a movie. |
+| Ending | Finally, | Finalmente | Finally, I went to bed. |
+| Ending | At the end of the day, | Al final del día | At the end of the day, I felt tired. |
+| Ending | Before going to bed, | Antes de ir a dormir | Before going to bed, I brushed my teeth. |
+
+## Recommended Structure for Your Diary
+
+First → Then → After that → Later → In the afternoon/evening → Finally
+
+## Example:
+
+First, I woke up at 9 AM.  
+Then, I had breakfast with my family.  
+After that, I studied English.  
+Later, I helped my dad.  
+In the afternoon, I studied Computer Science.  
+Finally, I watched some videos and went to bed.
+
+---
+
 # Verb Patterns
 
 ## 1. Verb + TO + Verb (Infinitive)
