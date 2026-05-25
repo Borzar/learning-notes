@@ -635,10 +635,37 @@ Se usa para mostrar **posesión directa entre personas o cosas**.
 - **Possessive pronouns** → reemplazan sustantivo (mine)  
 - **’s (genitivo)** → muestra posesión (John’s car)
 
----
+## 5. Reflexive Pronouns
 
+Se usa cuando la persona hace una acción sobre sí mismao para dar énfasis (“yo mismo”, “ella misma”)
 
+| Subject Pronoun | Reflexive Pronoun | Example | Translation |
+|---|---|---|---|
+| I | myself | I fixed the computer by myself. | Arreglé el computador yo mismo. |
+| You | yourself | You should take care of yourself. | Deberías cuidarte a ti mismo. |
+| He | himself | He taught himself English. | Él aprendió inglés por sí mismo. |
+| She | herself | She made the cake herself. | Ella hizo el pastel ella misma. |
+| It | itself | The cat cleaned itself. | El gato se limpió solo. |
+| We | ourselves | We finished the project by ourselves. | Terminamos el proyecto nosotros mismos. |
+| You (plural) | yourselves | You should prepare yourselves for the test. | Deberían prepararse para la prueba. |
+| They | themselves | They built the house themselves. | Construyeron la casa ellos mismos. |
 
+## Common Expressions
+
+| Expression | Meaning |
+|---|---|
+| by myself | solo / sin ayuda |
+| by yourself | solo / sin ayuda |
+| by ourselves | nosotros mismos / sin ayuda |
+| enjoy yourself | diviértete |
+| help yourself | sírvete / adelante |
+
+## Examples
+
+- I learned by myself. (Aprendí solo)
+- She went to the cinema by herself (Ella fue al cine sola)
+- We solved the problem ourselves. (Nosotros mismos resolvimos el problema)
+- They did the homework themselves. (Ellos mismos hicieron la tarea)
 
 ---
 
