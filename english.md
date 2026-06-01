@@ -570,6 +570,108 @@ Finally, I watched some videos and went to bed.
 | **forget** | forget + to + verb | Olvidar una acción o tarea | I forgot **to call** him. |
 
 ---
+# Uso del -ING (Gerundio)
+
+## 1. Después de ciertos verbos (Ver tabla Verb Patterns)
+
+Algunos verbos siempre van seguidos de **-ing**.
+
+### Verbos comunes
+
+| Verbo | Ejemplo | Traducción |
+|---------|---------|---------|
+| enjoy | I enjoy playing soccer. | Disfruto jugar fútbol. |
+| love | She loves reading books. | Le encanta leer libros. |
+| like | I like swimming. | Me gusta nadar. |
+| dislike | He dislikes waiting. | No le gusta esperar. |
+| hate | They hate cleaning. | Odian limpiar. |
+| finish | We finished working. | Terminamos de trabajar. |
+| avoid | She avoids driving at night. | Evita conducir de noche. |
+| suggest | I suggest leaving now. | Sugiero salir ahora. |
+| mind | Do you mind opening the window? | ¿Te molesta abrir la ventana? |
+| keep | Keep practicing. | Sigue practicando. |
+
+---
+
+## 2. Como sujeto de una oración
+
+Cuando una actividad es el sujeto.
+
+| Ejemplo | Traducción |
+|----------|----------|
+| Swimming is good exercise. | Nadar es un buen ejercicio. |
+| Learning English takes time. | Aprender inglés toma tiempo. |
+| Reading helps you learn. | Leer te ayuda a aprender. |
+
+---
+
+## 3. Después de preposiciones
+
+Después de una preposición se usa **-ing**.
+
+### Preposiciones comunes
+
+- in
+- on
+- at
+- for
+- about
+- without
+- before
+- after
+
+| Ejemplo | Traducción |
+|----------|----------|
+| I'm interested in learning English. | Estoy interesado en aprender inglés. |
+| Thank you for helping me. | Gracias por ayudarme. |
+| She left without saying goodbye. | Se fue sin despedirse. |
+| After eating, we went home. | Después de comer, fuimos a casa. |
+| Before leaving, call me. | Antes de irte, llámame. |
+
+---
+
+## 4. En los tiempos continuos
+
+Aquí el verbo en **-ing** forma parte del tiempo continuo.
+
+### Estructura
+
+Subject + Verb To Be + Verb-ing
+
+| Ejemplo | Traducción |
+|----------|----------|
+| I am studying now. | Estoy estudiando ahora. |
+| They were watching TV. | Estaban viendo televisión. |
+| She is working today. | Ella está trabajando hoy. |
+| We are learning English. | Estamos aprendiendo inglés. |
+
+---
+
+## 5. Después de expresiones comunes
+
+Algunas expresiones van seguidas de **-ing**.
+
+| Expresión | Ejemplo | Traducción |
+|------------|----------|----------|
+| How about | How about going to the beach? | ¿Qué tal ir a la playa? |
+| It's worth | It's worth trying. | Vale la pena intentarlo. |
+| Can't help | I can't help laughing. | No puedo evitar reírme. |
+| Look forward to | I look forward to seeing you. | Espero verte. |
+
+---
+
+# Regla rápida
+
+✅ Usa **-ing**:
+
+1. Después de ciertos verbos (*enjoy, love, finish, avoid, suggest...*).
+2. Como sujeto de una oración.
+3. Después de una preposición.
+4. En tiempos continuos (*am/is/are + ing*).
+5. Después de ciertas expresiones comunes.
+
+---
+
 # English Grammar Summary – Pronouns & Possessives
 
 ## 1. Object Pronouns (me, him, her, us, them)
